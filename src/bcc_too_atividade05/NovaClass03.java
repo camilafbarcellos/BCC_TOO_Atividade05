@@ -4,8 +4,8 @@ package bcc_too_atividade05;
  *
  * @author Camila Barcellos <BCC-TOO IFSul>
  */
-public class NovaBranch {
+public class NovaClass03 {
     public static void main(String[] args) {
-        System.out.println("Nova branch para versionamento!");
+        System.out.println("Terceira nova classe da branch!");
     }
 }
